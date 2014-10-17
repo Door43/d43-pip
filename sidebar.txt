@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pip:home|Door43 (pip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pip|d43-pip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pip/archive/master.zip|d43-pip.zip]]
+
+**Recent Changes**
+{{changes>ns = pip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pip|Ethnologue data]]
+
